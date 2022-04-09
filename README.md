@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Hi, I'm Galha!</h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Self-taught Programmer</br>
+</em></p>
 
-<!--
-**G4LH4/G4LH4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![GitHub g4lh4](https://img.shields.io/github/followers/g4lh4?label=follow&style=social)](https://github.com/g4lh4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### A little more about me...  
+
+```javascript
+const g4lh4 = {
+  code: [Javascript, HTML, CSS, Rust],
+  tools: [React, Node, Styled-Components]
+}
+```
+
+<img src="https://media.giphy.com/media/w89ak63KNl0nJl80ig/giphy.gif" width="60">
+
+---

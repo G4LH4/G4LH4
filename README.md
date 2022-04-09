@@ -1,6 +1,8 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
+[![GitHub g4lh4](https://img.shields.io/github/followers/g4lh4?label=follow&style=social)](https://github.com/g4lh4)
+
 ## About me ✨:
 
 - I am a self-thought Developer 💻.

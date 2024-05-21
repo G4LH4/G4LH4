@@ -5,8 +5,8 @@
 
 ## About me ✨:
 
-- I am a self-thought Developer 💻.
-- I like working with 💙 React or 💛 Native.
+- 💻.
+- React/Native.
 
 ## Technologies & Tools 🔨:
 
